@@ -1,16 +1,20 @@
 
     body {
-        background-color: rgb(197, 118, 197);
+        background: linear-gradient(to right, #5900ff, #8b3dcb);
+      
     }
 
     #titulo {
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: "Mozilla Headline", sans-serif;
     }
     
     .subt {
         color: rgb(204, 225, 83);
+        
+        
     }
 
     img {
       border: 10px solid rgb(93, 9, 142);
+      box-shadow: 5px 5px 15px 15px #5ae7c1;
     }
